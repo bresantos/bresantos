@@ -40,7 +40,7 @@ https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia
   ✨ Creating bugs since 2000s<br>
   📚 I'm currently learning Python and JS<br>
   🎯 Goals: I want to earn more money so I can travel<br>
-  🎲 Fun fact: I like to travel alone, I went skydiving one and also a flight attendant course, I even passed the ANAC test but didnt wanted to work with that</p>
+  🎲 Fun fact: I like to travel alone, I went skydiving once and also a flight attendant course, I even passed the ANAC test but didnt wanted to work with that</p>
 
 ###
 
