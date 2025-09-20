@@ -40,6 +40,7 @@ https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia
   ✨ Creating bugs since 2000s<br>
   📚 I'm currently learning Python and JS<br>
   🎯 Goals: I want to earn more money so I can travel<br>
+  
 ###
 
 <h2 align="left">:computer: I have experience with...</h2>
