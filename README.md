@@ -28,7 +28,7 @@ https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia
 
 ###
 
-<p align="left">My name is Brenda, I'm 25yo and I'm a Software Developer from São Paulo/Brazil</p>
+<p align="left">My name is Brenda, I'm a Software Developer from São Paulo/Brazil</p>
 
 ###
 
